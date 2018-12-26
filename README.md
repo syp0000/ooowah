@@ -1,1 +1,3 @@
 # ooowah
+
+learning basic python
